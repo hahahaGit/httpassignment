@@ -1,0 +1,6 @@
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\bin\Debug\HttpAssignment.exe.config
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\bin\Debug\HttpAssignment.exe
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\bin\Debug\HttpAssignment.pdb
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.csprojResolveAssemblyReference.cache
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.exe
+c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.pdb
