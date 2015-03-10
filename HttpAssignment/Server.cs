@@ -35,7 +35,7 @@ namespace HttpAssignment
             while (message != null && message != "")
             {
                 //Console.WriteLine("Client: " + message);
-                answer = message;
+                answer = "Hey Hey Hey";
                 sw.WriteLine(answer);
                 message = sr.ReadLine();
 

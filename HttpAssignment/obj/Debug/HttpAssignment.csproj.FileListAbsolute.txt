@@ -4,3 +4,9 @@ c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignmen
 c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.csprojResolveAssemblyReference.cache
 c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.exe
 c:\users\asis\documents\visual studio 2013\Projects\HttpAssignment\HttpAssignment\obj\Debug\HttpAssignment.pdb
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\bin\Debug\HttpAssignment.exe.config
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\obj\Debug\HttpAssignment.exe
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\obj\Debug\HttpAssignment.pdb
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\bin\Debug\HttpAssignment.exe
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\bin\Debug\HttpAssignment.pdb
+C:\Users\Asis\Documents\GitHub\httpassignment\HttpAssignment\obj\Debug\HttpAssignment.csprojResolveAssemblyReference.cache
